@@ -1,8 +1,8 @@
 # Author:  Adge Denkers
 # Created: 2024-07-23
-# Updated: 2024-07-23
+# Updated: 2024-09-25
 # File:    keep_awake.py
-# Version: 1.0
+# Version: 1.1
 
 # Importing necessary libraries
 import argparse    # For parsing command-line arguments
